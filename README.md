@@ -1,0 +1,2 @@
+# -Milestone-Unlocked-My-First-Power-BI-Sales-Analytics-Report-
+Exciting news! I’ve officially created my first dashboard in Power BI, turning raw data into clear, actionable business insights. 📊✨ In this report, I worked with sales performance data to build: 📈 Sales Trend Analysis: Tracking monthly revenue trends over time. 🌐 Breaking down total revenue across global markets (UK, USA, India, Australia).
